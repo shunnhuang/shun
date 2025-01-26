@@ -29,7 +29,7 @@ void loop() {
     servo3.write(0);
     servo4.write(0);
     Serial.println("Servos: Reset Position (0°)");
-  }
+}
 
   delay(100);
 }
